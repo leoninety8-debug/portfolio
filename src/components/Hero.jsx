@@ -10,7 +10,7 @@ const Hero = () => {
           <h1 className="hero-name">FASHLI HAFIY EDRIAN</h1>
           <h2 className="hero-role">IT Functional Business Analyst</h2>
           <p className="hero-description">
-            IT Functional Business Analyst with a proven track record driving digital transformation across more than 30 strategic initiatives. Skilled at improving operational efficiency, delivering reliable technical support, and collaborating effectively with cross-functional teams in fast-paced environments.
+            IT Functional Analyst with a proven track record driving digital transformation across more than 30 strategic initiatives. Skilled at improving operational efficiency, delivering reliable technical support, and collaborating effectively with cross-functional teams in fast-paced environments.
           </p>
           <div className="hero-contact">
             <div className="contact-item">
