@@ -33,7 +33,7 @@ const Hero = () => {
         </div>
         <div className="hero-image-container">
           <div className="hero-bg-glow"></div>
-          <img src="/profile.jpg" alt="Fashli Hafiy Edrian" className="hero-image" />
+          <img src={`${import.meta.env.BASE_URL}profile.jpg`} alt="Fashli Hafiy Edrian" className="hero-image" />
         </div>
       </div>
     </section>
